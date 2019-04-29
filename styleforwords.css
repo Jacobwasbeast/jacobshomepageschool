@@ -1,0 +1,20 @@
+
+body {
+  background-image: url("download2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ nav li{
+list-style: none;
+display: inline-block;
+font-size: 20px;
+padding: 15px;
+}
+ nav {
+background-color: aqua;
+text-align: center;
+}
+ .homepageImg {
+display: block;
+margin: auto;
+
